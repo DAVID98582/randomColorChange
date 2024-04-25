@@ -1,0 +1,16 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button{
+    background-color: black;
+    color: white;
+    /* width: 90px; */
+    padding: 15px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.danger{
+    background:red;
+}
